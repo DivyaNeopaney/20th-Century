@@ -1,6 +1,0 @@
-nltk
-textblob
-pandas
-matplotlib
-seaborn
-country-list

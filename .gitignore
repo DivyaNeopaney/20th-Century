@@ -1,0 +1,5 @@
+venv/
+.ipynb_checkpoints/
+*.DS_Store
+.virtual_documents/
+anaconda_projects/
