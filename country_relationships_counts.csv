@@ -1,0 +1,15 @@
+Country1,Country2,Count
+China,France,1
+China,India,2
+China,Japan,2
+China,Russia,1
+France,Germany,1
+France,India,1
+France,Russia,2
+Germany,Italy,2
+Germany,Japan,1
+Germany,Russia,1
+India,Japan,2
+Italy,Japan,1
+Japan,Russia,2
+Japan,United States,2
