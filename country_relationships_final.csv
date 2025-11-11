@@ -1,0 +1,102 @@
+country1,country2,count
+Germany,Japan,33
+Germany,Italy,32
+Germany,Poland,28
+Japan,Russia,22
+Japan,Philippines,21
+India,Pakistan,17
+France,Germany,17
+France,Poland,16
+Egypt,Libya,16
+Italy,Japan,16
+France,Italy,15
+Germany,Russia,13
+Israel,South Africa,12
+Denmark,Norway,12
+Japan,United States,12
+Albania,Greece,12
+Finland,Lithuania,12
+India,Japan,12
+Austria,Germany,11
+Japan,Solomon Islands,11
+Cambodia,United States,11
+Finland,Germany,11
+Germany,Iran,10
+Germany,Greece,10
+Pakistan,Philippines,10
+United States,Vietnam,10
+Cuba,United States,10
+Belgium,France,6
+Poland,Romania,6
+Germany,Sweden,6
+Algeria,Morocco,6
+Germany,Norway,6
+Japan,Thailand,6
+Belarus,Ukraine,6
+Hungary,Romania,6
+Israel,Pakistan,6
+Latvia,Lithuania,6
+Israel,Libya,6
+Luxembourg,Netherlands,6
+Albania,Bulgaria,6
+France,Russia,6
+Ghana,Kenya,6
+Bulgaria,Poland,6
+Romania,Russia,6
+Cambodia,Kenya,6
+Denmark,Sweden,6
+Singapore,Thailand,6
+Iran,Libya,6
+Estonia,Latvia,6
+Estonia,Lithuania,6
+Cuba,Mongolia,6
+Finland,Romania,6
+Cambodia,Laos,6
+France,India,6
+Australia,Canada,6
+Iraq,Japan,5
+Austria,Finland,5
+Israel,Japan,5
+Australia,Vietnam,5
+Japan,Papua New Guinea,5
+Cuba,Vietnam,5
+Japan,Poland,5
+Japan,Singapore,5
+Algeria,Italy,5
+Albania,Romania,5
+Laos,Philippines,5
+India,South Africa,5
+Lebanon,Vietnam,5
+Russia,United States,5
+Russia,Vietnam,5
+Rwanda,South Africa,5
+Iran,Israel,5
+Greece,Ukraine,5
+India,Singapore,5
+India,Russia,5
+Egypt,Iraq,5
+Estonia,Germany,5
+Estonia,Seychelles,5
+Canada,United States,5
+France,Japan,5
+France,Norway,5
+France,Spain,5
+France,United States,5
+Belgium,Luxembourg,5
+Germany,India,5
+Afghanistan,Romania,5
+Germany,Morocco,5
+Germany,Netherlands,5
+Belarus,Libya,5
+Austria,Rwanda,5
+Germany,Spain,5
+Germany,United States,5
+Ghana,Seychelles,5
+Greece,Italy,5
+Denmark,Poland,5
+Hungary,Mongolia,5
+India,Lebanon,5
+India,Papua New Guinea,5
+Afghanistan,Philippines,5
+Austria,Russia,1
+Austria,France,1
